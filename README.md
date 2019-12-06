@@ -1,12 +1,10 @@
 <font color="blue">
-<h1 align="center"; color="blue">ESP8266Scheduler2</h1>
+<h1 align="center", color="blue">ESP8266Scheduler2</h1>
 </font>
 ========================================================================
 
-
-<h2 align="center"></h2>
-inspired by:<br>
-https://github.com/nrwiersma/ESP8266Scheduler
+    inspired by:<br>
+    https://github.com/nrwiersma/ESP8266Scheduler
 
   (C) 2019 Helmut Weber
   
