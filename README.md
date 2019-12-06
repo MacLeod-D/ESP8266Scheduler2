@@ -2,10 +2,11 @@
 <h1 align="center" color="blue">ESP8266Scheduler2</h1>
 </font>
 ========================================================================
-<font color="blue">
+
     inspired by:<br>
     https://github.com/nrwiersma/ESP8266Scheduler
-</font>
+    
+    
   (C) 2019 Helmut Weber
   
   You can find ***EP8266Scheduler*** in the official Arduino Esp8266 Libraries
@@ -47,8 +48,8 @@
     there is no other activity in the program than the Scheduler
     
   
-  
-<h2 align="center">My Changes</h2>
+diff
++<h2 align="center">My Changes</h2>
   
   - Task-Pointers are saved in an array instead of a linked list
 
