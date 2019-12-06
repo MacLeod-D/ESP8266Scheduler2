@@ -46,7 +46,9 @@ https://github.com/nrwiersma/ESP8266Scheduler
   - The Scheduler needs a context  'main'  which is useless, because
     there is no other activity in the program than the Scheduler
     
-  **My Changes:**
+  <center> 
+  ## My Changes
+</center>
   
   - Task-Pointers are saved in an array instead of a linked list
 
