@@ -11,8 +11,7 @@
   (C) 2019 Helmut Weber
   
   You can find ***EP8266Scheduler*** in the official Arduino Esp8266 Libraries
-  It is a very elegant and compact tool to add cooparative multi-
-  tasking to your ESP8266 (based on cont.h)
+  It is a very elegant and compact tool to add cooparative multitasking to your ESP8266 (based on cont.h)
   
   The Idea:
   
