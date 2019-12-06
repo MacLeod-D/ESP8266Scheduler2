@@ -56,6 +56,8 @@
   - cont.h is part of the source, not of library
     Then you can use a stackspace of for instance 1024 bytes instead of
     4096 bytes - a tremendous saving!
+    
+  - No libraries used - all files in the sketch
 
   - Tasks do have a state READY, DELAYED, BLOCKED
     So Tasks may block itself or other tasks and other tasks (or Interrupts)
