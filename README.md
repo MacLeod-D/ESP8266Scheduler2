@@ -1,5 +1,7 @@
-/*
+
 ========================================================================
+#ESP8266Scheduler2
+
 inspired by:
 //https://www.arduinolibraries.info/libraries/esp8266-scheduler
 //https://github.com/nrwiersma/ESP8266Scheduler
