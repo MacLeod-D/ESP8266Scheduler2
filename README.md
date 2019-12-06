@@ -101,7 +101,7 @@
     No interrupts used, but may be included (timer and external)
 
     
-    ## CONCLUSION:
+    <h2 align="center">Conclusion</h2>
     
     This is a simple method to combine existing tasks as 'snippets' into
     a multitasking system.
