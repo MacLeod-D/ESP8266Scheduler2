@@ -26,7 +26,7 @@ https://github.com/nrwiersma/ESP8266Scheduler
   The task can have setup() - just called once - and a loop() which is
   called from time to time
   
-  The task my have  **delay(ms)**   which is done nonblocking.
+  The task may have  **delay(ms)**   which is done nonblocking.
   
   Down in the program there is the program-setup, where you start the
   class-Tasks and then call
