@@ -1,7 +1,6 @@
-<font color="blue">
+
 <h1 align="center" color="blue">ESP8266Scheduler2</h1>
-</font>
-========================================================================
+...
 
     inspired by:<br>
     https://github.com/nrwiersma/ESP8266Scheduler
