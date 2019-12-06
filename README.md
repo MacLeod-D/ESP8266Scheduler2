@@ -4,7 +4,7 @@
 
 
 inspired by:<br>
-https://www.arduinolibraries.info/libraries/esp8266-scheduler
+https://www.arduinolibraries.info/libraries/esp8266-scheduler<br>
 https://github.com/nrwiersma/ESP8266Scheduler
 
   (C) 2019 Helmut Weber
