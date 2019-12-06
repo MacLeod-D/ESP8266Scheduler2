@@ -2,10 +2,10 @@
 <h1 align="center" color="blue">ESP8266Scheduler2</h1>
 </font>
 ========================================================================
-
+<font color="blue">
     inspired by:<br>
     https://github.com/nrwiersma/ESP8266Scheduler
-
+</font>
   (C) 2019 Helmut Weber
   
   You can find ***EP8266Scheduler*** in the official Arduino Esp8266 Libraries
