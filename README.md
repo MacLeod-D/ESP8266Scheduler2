@@ -3,6 +3,7 @@
 ========================================================================
 
 
+<h2 align="center"></h2>
 inspired by:<br>
 https://github.com/nrwiersma/ESP8266Scheduler
 
@@ -97,7 +98,7 @@ https://github.com/nrwiersma/ESP8266Scheduler
     No interrupts used, but may be included (timer and external)
 
     
-    CONCLUSION:
+    ## CONCLUSION:
     
     This is a simple method to combine existing tasks as 'snippets' into
     a multitasking system.
