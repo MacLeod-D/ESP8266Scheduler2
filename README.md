@@ -1,5 +1,5 @@
 <font color="blue">
-<h1 align="center", color="blue">ESP8266Scheduler2</h1>
+<h1 align="center" color="blue">ESP8266Scheduler2</h1>
 </font>
 ========================================================================
 
