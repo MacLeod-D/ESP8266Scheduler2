@@ -91,7 +91,7 @@ diff
     - free heap: >34.000 bytes
     - program space 27%
     - dynamic memory space 53%
-    - Lowest priority tasks (`Loop') called 100.000 ties in 1,7 seconds
+    - Lowest priority tasks (`Loop') called 100.000 times in 1,7 seconds
     ![Screenshot](image2.jpg)
 
     No interrupts used, but may be included (timer and external)
