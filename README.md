@@ -48,8 +48,8 @@
     there is no other activity in the program than the Scheduler
     
   
-diff
-+<h2 align="center">My Changes</h2>
+
+<h2 align="center">My Changes</h2>
   
   - Task-Pointers are saved in an array instead of a linked list
 
