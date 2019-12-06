@@ -18,9 +18,9 @@ https://github.com/nrwiersma/ESP8266Scheduler
   Get a ready and tested sketch, and make a task out of it.
   Just write
 
-  class MyFirstTask : public Task {
-      YOUR SKETCH
-  } myfirst_task;
+      class MyFirstTask : public Task {
+          YOUR SKETCH
+      } myfirst_task;
   
   That's it!
   
