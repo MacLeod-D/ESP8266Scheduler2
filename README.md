@@ -24,17 +24,17 @@ https://github.com/nrwiersma/ESP8266Scheduler
   
   That's it!
   
-  The task can have setup() - just called once and a loop() which is
+  The task can have setup() - just called once - and a loop() which is
   called from time to time
   
-  The Task my have   delay(ms)  which is done nonblocking.
+  The task my have  **delay(ms)**   which is done nonblocking.
   
   Down in the program there is the program-setup, where you start the
   class-Tasks and then call
-  Scheduler.begin() to start the system of multitasking.
-  A  loop()  must be there for the linker, but is never called.
+  **Scheduler.begin()** to start the system of multitasking.
+  A  loop()  must be there for the linker, but it is never called.
   
-  A brilliant concept!
+  ***A brilliant concept!***
   
   But of cause I have some criticism ;)
   
@@ -47,7 +47,7 @@ https://github.com/nrwiersma/ESP8266Scheduler
   - The Scheduler needs a context  'main'  which is useless, because
     there is no other activity in the program than the Scheduler
     
-  My Changes:
+  **My Changes:**
   
   - Task-Pointers are saved in an array instead of a linked list
 
@@ -100,6 +100,18 @@ https://github.com/nrwiersma/ESP8266Scheduler
     
     This is a simple method to combine existing tasks as 'snippets' into
     a multitasking system.
+    
+    ========================================================================
 
+    For me, my CoopOS-Version (which uses cont.h as well) is much more versatile: 
+    
+    ## CoopOS with Stack-Change for ESP8266
+    
+    https://github.com/MacLeod-D/ESP8266-Multitasking-CoopOS
+    
+    ========================================================================
+    
+    ### Installation
+    Just unzip **ESP8266_Scheduler2.zip** into your Arduino sketchfolder
     
     
