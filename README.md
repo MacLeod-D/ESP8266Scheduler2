@@ -48,7 +48,8 @@ https://github.com/nrwiersma/ESP8266Scheduler
     there is no other activity in the program than the Scheduler
     
   
-  ## My Changes
+  
+<h2 align="center">My Changes</h2>
   
   - Task-Pointers are saved in an array instead of a linked list
 
